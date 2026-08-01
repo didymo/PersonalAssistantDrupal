@@ -1,0 +1,9 @@
+{
+  "name": "d11.personalassistant.dev.didymodesigns.com.au",
+  "private": true,
+  "description": "Node-based dev tooling only (secretlint) \u2014 this is a Drupal/Composer project.",
+  "devDependencies": {
+    "secretlint": "^13.0.4",
+    "@secretlint/secretlint-rule-preset-recommend": "^13.0.4"
+  }
+}
